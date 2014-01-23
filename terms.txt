@@ -1,1 +1,2 @@
 Terms file changed before adding to git
+Added new term
